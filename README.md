@@ -1,6 +1,6 @@
 # aria2-RPC
 
-利用AutoHotkye脚本后台运行aria2作为RPC服务器，用于浏览器插件等，或后台运行aria2并打开AriaNg。
+利用AutoHotkye v2.0脚本后台运行aria2作为RPC服务器，用于浏览器插件等，或后台运行aria2并打开AriaNg。
 
 AutoHotkey：https://github.com/AutoHotkey/AutoHotkey
 
